@@ -1,2 +1,3 @@
-# presentations
-Personal presentations to Meetup and Events
+# Presentations
+
+Slides to all my public presentations given on meetups and events.
